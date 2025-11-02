@@ -1,0 +1,76 @@
+# ========== Unity Temel Klasörleri ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ========== Asset Store / Paketler ==========
+# Paket cache ve indirilen assetler
+[Pp]ackages/com.unity.assetstore/
+[Pp]ackages/manifestTemp.json
+
+# ========== Visual Studio / Rider ==========
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# ========== Platform Build Çıktıları ==========
+*.apk
+*.aab
+*.xcodeproj/
+*.xcworkspace/
+*.app
+*.ipa
+*.exe
+*.dll
+*.mdb
+*.mp4
+*.mp3
+*.zip
+*.unitypackage
+
+# ========== Unity Cloud / Collaborate ==========
+.collab/
+.collabignore
+
+# ========== Otomatik veya geçici dosyalar ==========
+*.stackdump
+*.log
+*.dmp
+
+# ========== OS/IDE Özel ==========
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ========== Rider / JetBrains ==========
+.idea/
+*.iml
+
+# ========== Crash ve Profiler ==========
+sysinfo.txt
+
+# ========== Shader Cache ==========
+*.shadergraph.meta
+*.cginc.meta
+
+# ========== Addressables ==========
+[Aa]ssetBundles/
+[Aa]ssetBundles.meta/
+ServerData/
+ServerData.meta/
